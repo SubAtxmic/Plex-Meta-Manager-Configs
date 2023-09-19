@@ -45,7 +45,7 @@ collections:
  Netflix:
         template: {name: Studio, poster: https://theposterdb.com/api/assets/113218}
         tmdb_network: 213
-        summary: HBO Orginal Shows        
+        summary: Netflix Original Shows        
  Showtime:
         template: {name: Studio, poster: https://theposterdb.com/api/assets/113257}
         tmdb_network: 67
